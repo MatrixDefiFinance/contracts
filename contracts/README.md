@@ -2,13 +2,13 @@
 
 PILL Token : 
 
-Address : 0xB1C3A4Bc2A6745aF8978e80C237ea2B964e29605
+Address : 0x744a23936DcB894996BDe50e94CF846471e479f6
 
-BSC contract code : https://bscscan.com/address/0xB1C3A4Bc2A6745aF8978e80C237ea2B964e29605#code
+BSC contract code : https://bscscan.com/address/0x744a23936DcB894996BDe50e94CF846471e479f6#code
 
 PILL Masterchef : 
 
-Address : 0xB181D8900d23C16262B68BE6A0c46153C95Ab314
+Address : 0x9369d9A14b3CB710D9623f1ff44ACdE04DbE0B22
 
-BSC contract code : https://bscscan.com/address/0xB181D8900d23C16262B68BE6A0c46153C95Ab314#code
+BSC contract code : https://bscscan.com/address/0x9369d9A14b3CB710D9623f1ff44ACdE04DbE0B22#code
 
