@@ -8,7 +8,7 @@ BSC contract code : https://bscscan.com/address/0x744a23936DcB894996BDe50e94CF84
 
 PILL Masterchef : 
 
-Address : 0x9369d9A14b3CB710D9623f1ff44ACdE04DbE0B22
+Address : 0xaC709a52e3F79986551Aa43643204D25cC55eE87
 
-BSC contract code : https://bscscan.com/address/0x9369d9A14b3CB710D9623f1ff44ACdE04DbE0B22#code
+BSC contract code : https://bscscan.com/address/0xaC709a52e3F79986551Aa43643204D25cC55eE87#code
 
